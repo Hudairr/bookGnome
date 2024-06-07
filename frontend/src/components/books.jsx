@@ -1,12 +1,30 @@
-import React from 'react'
-import list from "../../public/list.json";
+import React, { useEffect, useState } from "react";
+
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from 'react-slick';
+
+import axios from "axios";
+
 import Cards from "./Cards"
 
 function Books() {
-    const filterData = list.filter((data) => data.category === "Free");
+    const [book, setBook] = useState([]);
+    useEffect(() => {
+      const getBook = async () => {
+        try {
+          const res = await axios.get("http://localhost:4001/book");
+
+          const data = res.data.filter((data) => data.category === "Literature");
+          console.log(data);
+          setBook(data);
+        } catch (error) {
+          console.log(error);
+        }
+      };
+      getBook();
+    }, []);
+    
     var settings = {
         dots: true,
         infinite: false,
@@ -45,13 +63,13 @@ function Books() {
       <>
         <div className="max-w-screen-2x1 container mx-auto md:px-20 px-4">
           <div>
-            <h1 className="font-semi-bold text-2x1 pt-7 pb-2">Top Offered Books</h1>
-            <p>Explore our curated book lists for every genre and occasion.</p>
+            <h1 className="font-semi-bold text-2x1 pt-7 pb-2">My Top Favourite Books</h1>
+            <p>Explore my curated book lists for my favourite genres</p>
           </div>
 
           <div>
             <Slider {...settings}>
-              {filterData.map((item) => (
+              {book.map((item) => (
                 <Cards item={item} key={item.id} />
               ))}
             </Slider>
