@@ -42,10 +42,10 @@ function NavBar() {
         <a href="/all-books">All Books</a>
       </li>
       <li>
-        <a>Contact</a>
+        <a href="https://www.linkedin.com/in/hudairr/">Contact</a>
       </li>
       <li>
-        <a>About</a>
+        <a href="https://www.instagram.com/hudairr/">About</a>
       </li>
     </>
   );
