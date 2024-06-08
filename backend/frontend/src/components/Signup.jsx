@@ -19,20 +19,22 @@ function Signup() {
         email:data.email,
         password:data.password
       }
-      await axios.post("/user/signup", userInfo)
-      .then((res)=>{
-        console.log(res.data)
-        if (res.data) {
-          toast.success("Signup Successfully");
-          navigate(from, { replace: true });
-        }
-      localStorage.setItem("Users", JSON.stringify(res.data.user));
-      }).catch((err)=>{
-       if (err.response) {
-          console.log(err);
-          toast.error("Error: " + err.response.data.message);
-       }
-      });
+      await axios
+        .post("http://localhost:4001/user/signup", userInfo)
+        .then((res) => {
+          console.log(res.data);
+          if (res.data) {
+            toast.success("Signup Successfully");
+            navigate(from, { replace: true });
+          }
+          localStorage.setItem("Users", JSON.stringify(res.data.user));
+        })
+        .catch((err) => {
+          if (err.response) {
+            console.log(err);
+            toast.error("Error: " + err.response.data.message);
+          }
+        });
     };
 
     return (

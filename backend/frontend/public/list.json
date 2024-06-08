@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Pride and Prejudice",
+        "title": "Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men.",
+        "price": "AED 14.29",
+        "category": "Literature",
+        "link":"https://amzn.to/3z27FYE",
+        "image": "https://m.media-amazon.com/images/I/91fDvMK+aEL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    
+    {
+        "id": 2,
+        "name": "The Forty Rules of Love",
+        "title": "Unfolds Two Tantalizing Parallel Narratives--One Contemporary And The Other Set In The Thirteenth Century, When Rumi Encountered His Spiritual Mentor, The Whirling Dervish Known As Shams Of Tabriz--That Together Explore The Enduring Power Of Rumi'S Work.",
+        "price": "AED 54.00",
+        "category": "Literature",
+        "link": "https://amzn.to/3Xw0QsX",
+        "image": "https://m.media-amazon.com/images/I/91FfSrZY4iL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    
+    {
+        "id": 3,
+        "name": "Normal People",
+        "title": "Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men.",
+        "price": "AED 42.74",
+        "category": "Literature",
+        "link": "https://amzn.to/3XfWaHg",
+        "image": "https://m.media-amazon.com/images/I/41rRZvX1b8L._SY445_SX342_.jpg"
+    },
+    
+    {
+        "id": 4,
+        "name": "Verity: The thriller that will capture your heart and blow mind",
+        "title": "Lowen Ashleigh is a struggling writer on the brink of financial ruin when she accepts the job offer of a lifetime.",
+        "price": "AED 45.61",
+        "category": "Literature",
+        "link": "https://amzn.to/3RdeNIg",
+        "image": "https://m.media-amazon.com/images/I/81HVQp-OMfL._SY342_.jpg"
+    },    
+    {
+        "id": 5,
+        "name": "On Earth we're Briefly Gorgeous",
+        "title": "A Lyrical Work Of Self-Discovery That'S Shockingly Intimate And Insistently Universal...Not So Much Briefly Gorgeous As Permanently Stunning.",
+        "price": "AED 60.86",
+        "category": "Literature",
+        "link": "https://amzn.to/3VA8EbK",
+        "image": "https://m.media-amazon.com/images/I/41pUuyut8KL._SY445_SX342_.jpg"
+    },    
+    {
+        "id": 6,
+        "name": "A Court Of Thorns And Roses: The Hottest Fantasy Sensation Of 2022",
+        "title": "This Is A Glorious Series Of Total Joy' Stylist Feyre Is A Huntress. And When She Sees A Deer In The Forest Being Pursued By A Wolf, She Kills The Predator And Takes Its Prey To Feed Herself And Her Family.",
+        "price": "AED 47.74",
+        "category": "Literature",
+        "link": "https://amzn.to/3RgHrbm",
+        "image": "https://m.media-amazon.com/images/I/81xtUuRY3ML._SY342_.jpg"
+    },    
+    {
+        "id": 7,
+        "name": "The Old Man and the Sea",
+        "title": "The old man has gone 84 days without catching a fish, everything about him is old except his eyes, they are the colour of the sea. ",
+        "price": "AED 30.72",
+        "category": "Literature",
+        "link": "https://amzn.to/4bP4t19",
+        "image": "https://m.media-amazon.com/images/I/81uaGXiRF4L._SY342_.jpg"
+    },    
+    {
+        "id": 8,
+        "name": "Wuthering Heights",
+        "title": "Wuthering Heights Is A Wild, Passionate Story Of The Intense And Almost Demonic Love Between Catherine Earnshaw And Heathcliff, A Foundling Adopted By Catherine'S Father.",
+        "price": "AED 14.00",
+        "category": "Literature",
+        "link": "https://amzn.to/3xfhMsD",
+        "image": "https://m.media-amazon.com/images/I/81dvA4tU0rL._SY425_.jpg"
+    },    
+    {
+        "id": 9,
+        "name": "A Thousand Splendid Suns",
+        "title": "A Thousand Splendid Sunsmariam Is Only Fifteen When She Is Sent To Kabul To Marry Rasheed. Nearly Two Decades Later, A Friendship Grows Between Mother And Daughter.",
+        "price": "AED 35.00",
+        "category": "History",
+        "link": "https://amzn.to/4bNhGI1",
+        "image": "https://m.media-amazon.com/images/I/71AuDcC9PsL._AC_UL480_FMwebp_QL65_.jpg"
+    },    
+    {
+        "id": 10,
+        "name": "The Stationery Shop Of Tehran",
+        "title": "1953, Tehran. In A Small Shop In A Country On The Brink Of Unrest, Two People Meet For The Very First Time.",
+        "price": "AED 36.41",
+        "category": "History",
+        "link": "https://amzn.to/3X9n2ZD",
+        "image": "https://m.media-amazon.com/images/I/81t6xQeZA8L._AC_UL480_FMwebp_QL65_.jpg"
+    },    
+    {
+        "id": 11,
+        "name": "Shogun: The First Novel of the Asian saga",
+        "title": "This is James Clavell's tour-de-force; an epic saga of one Pilot-Major John Blackthorne, and his integration into the struggles and strife of feudal Japan.",
+        "price": "AED 61.48",
+        "category": "History",
+        "link": "https://amzn.to/4bSaTwK",
+        "image": "https://m.media-amazon.com/images/I/91LIU1FM-nL._SY342_.jpg"
+    },    
+    {
+        "id": 12,
+        "name": "The Book Theif",
+        "title": "1939. Nazi Germany. The Country Is Holding Its Breath. Death Has Never Been Busier. Liesel, A Nine-Year-Old Girl, Is Living With A Foster Family On Himmel Street.",
+        "price": "AED 35.99",
+        "category": "History",
+        "link": "https://amzn.to/3RiQloC",
+        "image": "https://m.media-amazon.com/images/I/71H52+sSb4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Murder On The Orient Express",
+        "title": "Just After Midnight, A Snowdrift Stops The Orient Express In Its Tracks. The Luxurious Train Is Surprisingly Full For The Time Of The Year, But By The Morning It Is One Passenger Fewer.",
+        "price": "AED 29.39",
+        "category": "History",
+        "link": "https://amzn.to/3VgTmqK",
+        "image": "https://m.media-amazon.com/images/I/71+yoBE7xfL._SY342_.jpg"
+    }, 
+    {
+        "id": 14,
+        "name": "Metamorphosis",
+        "title": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.’ ",
+        "price": "AED 8.19",
+        "category": "History",
+        "link": "https://amzn.to/45hfRkc",
+        "image": "https://m.media-amazon.com/images/I/71qR+kG+43L._AC_UL480_FMwebp_QL65_.jpg"
+    }, 
+    {
+        "id": 15,
+        "name": "All The Light We Cannot See",
+        "title": "About A Blind French Girl And A German Boy Whose Paths Collide In Occupied France As Both Try To Survive The Devastation Of World War II.",
+        "price": "AED 51.00",
+        "category": "History",
+        "link": "https://amzn.to/4csIu0b",
+        "image": "https://m.media-amazon.com/images/I/81RBTG28sCL._AC_UL480_FMwebp_QL65_.jpg"
+    }, 
+    {
+        "id": 16,
+        "name": "The Nightingale",
+        "title": "Two sisters. One must be brave. One should be afraid.",
+        "price": "AED 45.00",
+        "category": "History",
+        "link": "https://amzn.to/3yZj2AE",
+        "image": "https://m.media-amazon.com/images/I/81R2jFIqpoL._AC_UL480_FMwebp_QL65_.jpg"
+    }, 
+    {
+        "id": 17,
+        "name": "Ego Is The Enemy: The Fight To Master Our Greatest Opponent",
+        "title": "A Powerful Meditation On The Nature And Dangers Of Ego, From The Author Of The 1 New York Times Bestseller Stillness Is The Key",
+        "price": "AED 47.25",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/4bP6wCw",
+        "image": "https://m.media-amazon.com/images/I/41MvVJgifjL._SY445_SX342_.jpg"
+    }, 
+    {
+        "id": 18,
+        "name": "Solitude: A Return to the Self",
+        "title": "Originally published in 1988, Anthony Storr's bestselling meditation on the creative individual's need for solitude has become a classic.",
+        "price": "AED 62.54",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/3KT5ny5",
+        "image": "https://m.media-amazon.com/images/I/81Q56J-6JXL._AC_UL480_FMwebp_QL65_.jpg"
+    }, 
+    {
+        "id": 19,
+        "name": "The Little Book Of Hygge: The Danish Way To Live Well",
+        "title": "Hygge Is Widely Recognised To Be The Magic Ingredient To This Happiness.Hygge Has Been Described As Everything From Cosines Of The Soul To The Pursuit Of Everyday Pleasures.",
+        "price": "AED 57",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/4efqJ5W",
+        "image": "https://m.media-amazon.com/images/I/81SXmBqwABL._AC_UL480_FMwebp_QL65_.jpg"
+    }, 
+    {
+        "id": 20,
+        "name": "The Psychology Of Money: Timeless Lessons On Wealth, Greed, And Happiness",
+        "title": "Doing Well With Money Isn'T Necessarily About What You Know. It'S About How You Behave. And Behavior Is Hard To Teach, Even To Really Smart People.",
+        "price": "AED 61.98",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/4aR4W1F",
+        "image": "https://m.media-amazon.com/images/I/71aG0m9XRcL._SY342_.jpg"
+    }, 
+    {
+        "id": 21,
+        "name": "Ikigai: The Japanese Secret To A Long And Happy Life",
+        "title": "To The Japanese, Everyone Has An Ikigai--A Reason For Living. And According To The Residents Of The Japanese Village With The World'S Longest-Living People, Finding It Is The Key To A Happier And Longer Life.",
+        "price": "AED 64.28",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/3Vw0H73",
+        "image": "https://m.media-amazon.com/images/I/71xH0ALI4-L._AC_UL480_FMwebp_QL65_.jpg"
+    }, {
+        "id": 22,
+        "name": "Atomic Habits: An Easy & Proven Way To Build Good Habits And Break Bad Ones",
+        "title": "James Clear, One Of The World'S Leading Experts On Habit Formation, Reveals Practical Strategies That Will Teach You Exactly How To Form Good Habits, Break Bad Ones, And Master The Tiny Behaviors That Lead To Remarkable Results.",
+        "price": "AED 56.67",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/3VbnbsR",
+        "image": "https://m.media-amazon.com/images/I/61rOus07jlL._AC_UL480_FMwebp_QL65_.jpg"
+    }, {
+        "id": 23,
+        "name": "Sapiens A Brief History Of Humankind By Yuval Noah Harari - Paperback",
+        "title": "What Makes Us Brilliant? What Makes Us Deadly? What Makes Us Sapiens?Yuval Noah Harari Challenges Everything We Know About Being Human.",
+        "price": "aed 47.00",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/4ebXXTI",
+        "image": "https://m.media-amazon.com/images/I/713jIoMO3UL._SY342_.jpg"
+    }, {
+        "id": 24,
+        "name": "The Diary of A Young Girl",
+        "title": "This beautifully written memoir of a young girl caught in the middle of one of the most horrific periods of human history, is a testament to the indestructible human will to persevere and survive in the face of the most adverse of circumstances. ",
+        "price": "AED 11.05",
+        "category": "Non-Fiction",
+        "link": "https://amzn.to/3xhIJvP",
+        "image": "https://m.media-amazon.com/images/I/71LFv6Z1t0S._SY342_.jpg"
+    }
+]
